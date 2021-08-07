@@ -1,4 +1,3 @@
-package DSC30.PA1;
 
 public class Startup {
     public static void main(String[] args) {
