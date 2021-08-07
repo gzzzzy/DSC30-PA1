@@ -1,4 +1,3 @@
-package DSC30.PA1;
 
 /*
     Name: Zhiyu Gao
