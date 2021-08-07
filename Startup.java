@@ -1,46 +1,7 @@
 
 public class Startup {
     public static void main(String[] args) {
-        // (1)
-        /*
-         * String[] str={"m", "ari", "na la", "nglois.", "dsc30", "!"}; boolean[]
-         * b=arrEvenOdd(str); for(int i=0;i<b.length;++i) System.out.println(b[i]);
-         */
-
-        // (2)
-        /*
-         * System.out.println(spellDigits("DSC 30"));
-         * System.out.println(spellDigits("A1B2c3d4E5"));
-         * System.out.println(spellDigits("No digits"));
-         */
-
-        // (3)
-        /*
-         * System.out.println(swapCase("abcdefg, hijklmn, OPQRST, UVWXYZ!"));
-         * System.out.println(swapCase("ENCRYPT encrypt?"));
-         * System.out.println(swapCase("CsE BaSeMeNt >.<"));
-         */
-
-        // 4
-        /*
-         * double[][] input={ {-100.0,11.12,133.001}, {4122.5,25.23,-61.442},
-         * {-1092.1,2.84,771.555} }; int[][] output=binarizeMatrixByMidrange(input);
-         * for(int i=0;i<output.length;++i){ for(int j=0;j<output[0].length;++j){
-         * System.out.printf("%-4d",output[i][j]); } System.out.print('\n'); }
-         */
-
-        // 5
-        // int[] set1={},set2={1,2,3};
-        // int[] set1={1,2,3,5},set2={1,2,3};
-        // int[] set1={-2,6,7,8},set2={-10,-2,1,2,3,6,7,8,9};
-        // int[] set1={3,5},set2={4};
-        // System.out.println(allByOneChecker(set1, set2));
-
-        // 6
-        /*
-         * System.out.println(numpadSRC(35777)); System.out.println(numpadSRC(546540));
-         * System.out.println(numpadSRC(7711404)); System.out.println(numpadSRC(123));
-         */
+        
     }
 
     // #1
